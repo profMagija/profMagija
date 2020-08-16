@@ -1,1 +1,3 @@
 ‮ (:
+
+![My Stats](./stats.svg)
