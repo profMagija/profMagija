@@ -1,3 +1,3 @@
 ‮ (:
 
-![My Stats](stats.svg)
+![My Stats](/profMagija/profMagija/raw/master/stats.svg)
